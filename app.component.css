@@ -1,0 +1,14 @@
+.logoheader{
+    background-color: rgb(9, 46, 48);
+    height: 80px;
+}
+
+.headercontent{
+    color: azure;
+    font-size: 30px;
+    margin: auto;
+    display: table;
+    padding-top: 10px;
+    font-family: Georgia;
+
+}
